@@ -6,7 +6,7 @@ export default function Page({ home, isValidSlug, slug }) {
       <div>Slug: {JSON.stringify(slug)}</div>
       <div>
         <Link href="/">
-          <a>Home</a>
+          <a>Home [staging]</a>
         </Link>
       </div>
       <div>
